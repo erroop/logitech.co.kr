@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/logitech/static/css/main.ead44a8d.css",
-    "main.js": "/logitech/static/js/main.e94f234f.js",
-    "index.html": "/logitech/index.html",
-    "main.ead44a8d.css.map": "/logitech/static/css/main.ead44a8d.css.map",
-    "main.e94f234f.js.map": "/logitech/static/js/main.e94f234f.js.map"
+    "main.css": "/logitech.co.kr/static/css/main.ead44a8d.css",
+    "main.js": "/logitech.co.kr/static/js/main.d9671ace.js",
+    "index.html": "/logitech.co.kr/index.html",
+    "main.ead44a8d.css.map": "/logitech.co.kr/static/css/main.ead44a8d.css.map",
+    "main.d9671ace.js.map": "/logitech.co.kr/static/js/main.d9671ace.js.map"
   },
   "entrypoints": [
     "static/css/main.ead44a8d.css",
-    "static/js/main.e94f234f.js"
+    "static/js/main.d9671ace.js"
   ]
 }
