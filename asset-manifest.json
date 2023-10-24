@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logitech/static/css/main.ead44a8d.css",
+    "main.js": "/logitech/static/js/main.e94f234f.js",
+    "index.html": "/logitech/index.html",
+    "main.ead44a8d.css.map": "/logitech/static/css/main.ead44a8d.css.map",
+    "main.e94f234f.js.map": "/logitech/static/js/main.e94f234f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead44a8d.css",
+    "static/js/main.e94f234f.js"
+  ]
+}
