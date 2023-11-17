@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/logitech.co.kr/static/css/main.8580c31d.css",
+    "main.js": "/logitech.co.kr/static/js/main.16ef3c4f.js",
+    "static/media/carbon-methodology-mobile.png": "/logitech.co.kr/static/media/carbon-methodology-mobile.8bbf2c32027f69a4a30f.png",
+    "static/media/future-positive-challenge-mobile.jpg": "/logitech.co.kr/static/media/future-positive-challenge-mobile.e975255ee4bab48a8233.jpg",
+    "static/media/pcr-plastic-mobile.jpg": "/logitech.co.kr/static/media/pcr-plastic-mobile.d096dc3311d7c7951433.jpg",
+    "static/media/bg-about-mobile.jpg": "/logitech.co.kr/static/media/bg-about-mobile.5ea98a177e21bfbc0d12.jpg",
+    "static/media/climate-positive-mobile1.jpg": "/logitech.co.kr/static/media/climate-positive-mobile1.a58fe6d5e0ee862d8acb.jpg",
+    "static/media/business-solution-hpb-mobile.jpg": "/logitech.co.kr/static/media/business-solution-hpb-mobile.2888e3b5a3401c3fbe8d.jpg",
+    "static/media/bg-logicares-mobile.jpg": "/logitech.co.kr/static/media/bg-logicares-mobile.42fb2929d1973478b69a.jpg",
+    "static/media/bg-design-mobile.jpg": "/logitech.co.kr/static/media/bg-design-mobile.d0eb4f1041ca21245840.jpg",
+    "index.html": "/logitech.co.kr/index.html",
+    "main.8580c31d.css.map": "/logitech.co.kr/static/css/main.8580c31d.css.map",
+    "main.16ef3c4f.js.map": "/logitech.co.kr/static/js/main.16ef3c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8580c31d.css",
+    "static/js/main.16ef3c4f.js"
+  ]
+}
